@@ -6,7 +6,7 @@
  <br>
  I have used Turtle Graphics and used concepts of
  Object Oriented Programming(OOPS), like Inheritance,
- Splicing, Higher order functions and Event Handling using
+ Slicing, Higher order functions and Event Handling using
  the Screen class of the turtle module
  <br> <br>
 
