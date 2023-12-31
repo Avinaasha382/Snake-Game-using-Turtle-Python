@@ -1,7 +1,7 @@
 # Snake-Game-using-Turtle-Python
  Hey everyone, I have written a code to recreate
  the snake game we used to play when we were young
- in our old Nokia Phones.
+ in our old Nokia Phones. I have been making this Project for a week from 24th Decemeber 2023. It was a good learning experience.
  <br>
  <br>
  I have used Turtle Graphics and used concepts of
